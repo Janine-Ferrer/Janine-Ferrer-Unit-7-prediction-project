@@ -1,0 +1,14 @@
+.sub-questions {
+    border: solid 5px pink;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #C04000;
+}
+
+body {
+    background-color: beige;
+}
